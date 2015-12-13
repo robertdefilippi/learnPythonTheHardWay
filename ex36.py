@@ -25,7 +25,7 @@
 # 4 Write some of the code under the comments
 # 5 Run the script to see if it works
 # 6 Write-Test-Fix-Next, cycle
-# 7 Pick the next task and go for it
+# 7 Pick the next task and go for itter
 
 from sys import exit
 
